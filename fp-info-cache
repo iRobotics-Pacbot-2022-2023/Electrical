@@ -1,4 +1,4 @@
-20517096323978416
+20520433014272758
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -60900,6 +60900,13 @@ PhotoDiode plastic SMD DIL
 6
 2
 OptoDevice
+Osram_SMD-DIL2_4.5x4.0mm
+PhotoDiode, plastic SMD DIL, 4.5x4mm²
+PhotoDiode plastic SMD DIL
+0
+2
+2
+OptoDevice
 Osram_SMD-SmartDIL
 PhotoDiode, plastic SMD SmatDIL
 PhotoDiode plastic SMD SmatDIL
@@ -86288,3 +86295,10 @@ varistor
 0
 2
 2
+board1_footprints
+DRV8876
+
+
+0
+7
+7
