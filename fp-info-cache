@@ -1,4 +1,4 @@
-20520433014272758
+20518774218127933
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -60898,13 +60898,6 @@ PhotoDiode, plastic SMD DIL, 4.5x4mm, area: 2.65x2.65mm, https://dammedia.osram.
 PhotoDiode plastic SMD DIL
 0
 6
-2
-OptoDevice
-Osram_SMD-DIL2_4.5x4.0mm
-PhotoDiode, plastic SMD DIL, 4.5x4mm²
-PhotoDiode plastic SMD DIL
-0
-2
 2
 OptoDevice
 Osram_SMD-SmartDIL
